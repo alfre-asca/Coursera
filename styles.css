@@ -11,8 +11,19 @@ a:hover{
 	color: black;
 	background: white;
 }
+.green_link:hover{
+	color: green;
+	background: grey;
+}
 
 h1{
 	font-family: "Times new roman" serif;
 	font-size: 50px;
+}
+
+.indent{
+	margin-left: 10px;
+}
+.gap_below{
+	margin-bottom: 40px;
 }
